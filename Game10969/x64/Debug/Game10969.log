@@ -1,0 +1,155 @@
+﻿  Game10969.cpp
+D:\1D\Profund\Gameee\Game10969\level.h(2,1): warning C4005: 'MAX': macro redefinition
+D:\1D\Profund\Gameee\Game10969\song.h(7): message : see previous definition of 'MAX'
+D:\1D\Profund\Gameee\Game10969\kami5.h(2,1): warning C4005: '_CRT_SECURE_NO_DEPRECATE': macro redefinition
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp : message : see previous definition of '_CRT_SECURE_NO_DEPRECATE'
+D:\1D\Profund\Gameee\Game10969\kami5.h(7,1): warning C4005: 'MAX': macro redefinition
+D:\1D\Profund\Gameee\Game10969\level.h(2): message : see previous definition of 'MAX'
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(113,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(113,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(114,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(114,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(115,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(115,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(116,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(116,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(117,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(117,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(363,135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(365,50): warning C4838: conversion from '__int64' to 'int' requires a narrowing conversion
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(365,50): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(395,38): warning C4244: '*=': conversion from 'double' to '__int64', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(400,88): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(405,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(415,45): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(444,63): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(527,108): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(528,113): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(529,113): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(530,113): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(624,28): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(652,31): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(745,27): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(776,23): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(862,34): warning C4838: conversion from '__int64' to 'int' requires a narrowing conversion
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(862,34): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(879,16): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(889,38): warning C4838: conversion from '__int64' to 'int' requires a narrowing conversion
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(889,38): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(907,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(908,30): warning C4838: conversion from '__int64' to 'int' requires a narrowing conversion
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(908,30): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(913,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1167,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1168,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1173,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1191,87): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1191,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1223,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1224,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1227,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1280,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1281,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1289,31): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1290,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\1D\Profund\Gameee\Game10969\Game10969.cpp(1356,32): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+  song.cpp
+D:\1D\Profund\Gameee\Game10969\song.cpp(47,74): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Game10969.vcxproj -> D:\1D\Profund\Gameee\x64\Debug\Game10969.exe
